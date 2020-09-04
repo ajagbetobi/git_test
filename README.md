@@ -1,1 +1,1 @@
-This is Ajagb Tobi’s first git project!
+This is Ajagbe Tobi’s first git project!
